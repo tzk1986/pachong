@@ -1,0 +1,7 @@
+tqdm
+requests
+bs4
+pandas
+selenium
+lxml
+httpx[http2]
